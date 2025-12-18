@@ -55,7 +55,7 @@ Gives executives a quick, reliable snapshot of portfolio scale, composition, and
 **Business Question:**  
 **“Can we drill down to transaction-level details when needed?”**
 
-![Summary](Dashboard Images/summary.PNG)
+![Summary](<Dashboard Images/summary.PNG>) 
 
 **Features**
 - Excel-style transaction table
@@ -73,7 +73,7 @@ Supports audits, investigations, and operational follow-ups without leaving Powe
 - **Which policies generate the highest absolute profit?**
 - **Which policies deliver better annualized returns?**
 
-![Investment](Dashboard Images/investment.PNG)
+![Investment](<Dashboard Images/investment.PNG>)  
 
 **Visuals**
 - Clustered column chart: **Total Premium Paid vs Total Maturity Amount**
@@ -91,7 +91,7 @@ Evaluates investment efficiency and identifies products that truly create value 
 - **Do higher premiums result in better returns?**
 - **Which policy types generate higher profit per policy?**
 
-![Coverage](Dashboard Images/coverage.PNG)
+![Coverage](<Dashboard Images/coverage.PNG>) 
 
 **Visuals**
 - Line & column chart: **Total Premium vs Coverage Multiple**
@@ -109,7 +109,7 @@ Ensures customers are not overpaying for underperforming coverage and helps insu
 - **How does collection progress over time?**
 - **Which regions or states are most at risk?**
 
-![Payments](Dashboard Images/payments.PNG)
+![Payments](<Dashboard Images/payments.PNG>) 
 
 **Visuals**
 - Stacked column chart: **Paid vs Payable by Payment Bucket**
@@ -125,8 +125,8 @@ Highlights liquidity risk and supports proactive collection strategies.
 **Business Question:**  
 **“How is insurance performance distributed across the sales hierarchy?”**
 
-![Productivity Chart](Dashboard Images/productivity-chart.PNG)  
-![Productivity Matrix](Dashboard Images/productivity-matrix.PNG)
+![Productivity Chart](<Dashboard Images/productivity-chart.PNG>)  
+![Productivity Matrix](<Dashboard Images/productivity-matrix.PNG>)  
 
 **Key Features**
 - Button-controlled bookmarks (Chart View / Matrix View)
